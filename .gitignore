@@ -1,0 +1,11 @@
+venv/
+.venv/
+.DS_Store
+__pycache__/
+*.pyc
+throwaway/
+data/cache/
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

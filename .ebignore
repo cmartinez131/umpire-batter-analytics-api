@@ -1,0 +1,12 @@
+# Exclude large/local stuff from EB source bundle
+data/
+.venv/
+venv/
+__pycache__/
+*.parquet
+*.csv
+*.tsv
+dist/
+build/
+.eggs/
+.git/
